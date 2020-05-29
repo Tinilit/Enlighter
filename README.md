@@ -1,3 +1,2 @@
-# Enlighter
-Testing Docker + RabbitMQ
+# Enlighter (Docker + RabbitMQ testing)
 to run the app: docker-compose us --build
