@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Enlighter.CommandConsole": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
